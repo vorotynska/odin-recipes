@@ -1,6 +1,43 @@
-.odd {
-    background-color: rgb(186, 205, 226);
-    font-family: Verdana, DejaVu Sans, sans-serif;
-    font-family: Verdana, "DejaVu Sans", sans-serif;
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    background-color: burlywood;
 }
+
+  
+h1,h2, p {
+    text-align: center;
+  }
+
+   h1,h2,h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   }
+  
+   h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  h2 {
+    font-size: 30px;
+  }
+
+  hr {
+    height: 2px;
+    background-color: brown;
+    border: 1px solid brown;
+  }
+
+  a:visited {
+    color: grey;
+  }
+  
+  a:hover {
+    color: blue;
+  }
+  
+  a:active {
+    color: white;
+  }
+
 
